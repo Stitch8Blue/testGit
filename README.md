@@ -1,1 +1,3 @@
-[Tell U]
+[Tell U ^฿ O]
+
+ืnpm install

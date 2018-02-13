@@ -10,7 +10,7 @@ const user = require('./app/api/senduser')
 // })
 
 App.use(async function(ctx){
-  ctx.body = 'Hello World! Arthima.'
+  ctx.body = 'Hello World! Arthima.222'
 })
 
  App.use(bodyParser())
